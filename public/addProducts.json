@@ -1,0 +1,467 @@
+
+
+[
+  {
+    "productName": "Apple Air book 2",
+    "brandName": "Apple",
+    "price": "290",
+    "image": "https://i.ibb.co/9r29kVj/applelaptop.png",
+    "type": "laptop",
+    "rating": "4.9",
+    "description": "Apple's thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning.",
+    "createdAt": "2023-10-19T14:47:59.948Z",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Hp pavilion",
+    "brandName": "HP",
+    "price": "390",
+    "image": "https://i.ibb.co/f1RHN4Y/hp5.jpg",
+    "type": "laptop",
+    "rating": "4",
+    "description": "Windows 11 Home.\nAMD Ryzen™ 5 processor.\nAMD Radeon™ Graphics.\n16 GB memory; 256 GB SSD storage.\n13.3\" diagonal WUXGA displa.",
+    "createdAt": "2023-10-19T15:37:23.827Z",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "LG InstaView Refrigerator",
+    "brandName": "LG",
+    "type": "refrigerator",
+    "description": "The LG InstaView Refrigerator features a sleek design with a transparent door that lets you see inside without opening it. It offers spacious storage, energy efficiency, and smart features.",
+    "price": "1999",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/6gjYPjk/lg2.jpg",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "LG Dolby Atmos Soundbar",
+    "brandName": "LG",
+    "type": "soundbar",
+    "description": "The LG Dolby Atmos Soundbar provides immersive audio for your home theater setup. It supports Dolby Atmos, DTS:X, and Hi-Res Audio, delivering exceptional sound quality.",
+    "price": "499",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/wWM4QTy/lg4.jpg",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "HP Pavilion Desktop",
+    "brandName": "HP",
+    "type": "computer",
+    "description": "The HP Pavilion Desktop is a powerful and reliable computer for both work and play. It comes equipped with a high-performance processor, ample storage, and a sleek design.",
+    "price": "799",
+    "rating": "5",
+    "image": "https://i.ibb.co/7WH946N/hp2.jpg",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "HP FrostGuard Freezer",
+    "brandName": "HP",
+    "type": "freezer",
+    "description": "The HP FrostGuard Freezer is a reliable appliance for preserving your frozen goods. With ample storage space and energy-efficient technology, it keeps your food fresh for longer.",
+    "price": "499",
+    "rating": "4.4",
+    "image": "https://i.ibb.co/27JcVCr/hp3.jpg",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Samsung Front Load Washer & Dryer",
+    "brandName": "Samsung",
+    "type": "washer and dryer",
+    "description": "The Samsung Front Load Washer and Dryer combo offer efficient laundry care with various wash and dry cycles. It features a large drum for big loads.",
+    "price": "1299",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/rmSJjnd/samsung4.webp",
+     "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Huawei MateBook X Pro",
+    "brandName": "Huawei",
+    "type": "laptop",
+    "description": "The Huawei MateBook X Pro is an ultra-slim and lightweight laptop with a beautiful 13.9-inch display, fast performance, and long battery life.",
+    "price": "1199",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/sJ13Qw5/Huawei2.jpg",
+     "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Intel 670p SSD",
+    "brandName": "Intel",
+    "type": "SSD",
+    "description": "The Intel 670p SSD offers fast and reliable storage for your data. With high read and write speeds, it provides quick access to your files and applications.",
+    "price": "99",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/NY5fPQQ/intel2.webp",
+     "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Intel Wi-Fi 6E Network Card",
+    "brandName": "Intel",
+    "type": "network card",
+    "description": "The Intel Wi-Fi 6E Network Card provides fast and reliable wireless connectivity for your PC. It supports the latest Wi-Fi 6E standard for low latency and high-speed wireless performance.",
+    "price": "59",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/c6mbhZ4/intel4.jpg",
+     "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Panasonic Inverter Microwave Oven",
+    "brandName": "Panasonic",
+    "type": "microwave oven",
+    "description": "The Panasonic Inverter Microwave Oven is a versatile kitchen appliance with inverter technology for even cooking. It offers multiple cooking modes and a spacious interior.",
+    "price": "199",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/z2x0FKf/panasonic1.webp",
+     "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Google Home Max",
+    "brandName": "Google",
+    "type": "smart speaker",
+    "description": "The Google Home Max is a high-fidelity smart speaker with Google Assistant built-in. It delivers powerful sound and seamlessly integrates with your smart home devices.",
+    "price": "299",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/Bc08N1M/google3.jpg",
+     "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Google Pixel Slate",
+    "brandName": "Google",
+    "type": "tablet",
+    "description": "The Google Pixel Slate is a versatile tablet that can also function as a laptop with the attachable keyboard. It boasts a sharp display and the convenience of the Chrome OS.",
+    "price": "699",
+    "rating": "4.0",
+    "image": "https://i.ibb.co/kMd8m8M/google2.jpg",
+     "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Panasonic DECT 6.0 Cordless Phone",
+    "brandName": "Panasonic",
+    "type": "cordless phone",
+    "description": "The Panasonic DECT 6.0 Cordless Phone offers reliable communication with DECT technology. It features call blocking, caller ID, and a built-in answering machine.",
+    "price": "69",
+    "rating": "4.3",
+    "image": "https://i.ibb.co/s9fsGxv/panasonic3.png",
+     "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Huawei P40 Pro",
+    "brandName": "Huawei",
+    "type": "smartphone",
+    "description": "The Huawei P40 Pro is a feature-packed smartphone with a high-quality camera system, a powerful Kirin processor, and a sleek design.",
+    "price": "799",
+    "rating": "4.6",
+    "image": "https://i.ibb.co/Sv7RChb/huawei1.jpg",
+     "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "iPhone 13",
+    "brandName": "Apple",
+    "price": "799",
+    "image": "https://i.ibb.co/Z6RnBQd/apple2.jpg",
+    "type": "phone",
+    "rating": "5",
+    "description": "The iPhone 13 is the latest in Apple's smartphone lineup. It boasts a stunning 6.1-inch Super Retina XDR display, powered by the A15 Bionic chip. Running iOS 15, it offers an array of features, including a powerful dual-camera system for capturing exceptional photos and videos.",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Samsung Galaxy S22",
+    "brandName": "Samsung",
+    "type": "mobile phone",
+    "description": "The Samsung Galaxy S22 is a flagship mobile phone with a high-resolution display, a powerful processor, and a versatile camera system. It runs on the latest Android OS for a seamless mobile experience.",
+    "price": "999",
+    "rating": "4.8",
+    "image": "https://i.ibb.co/h9YJXcG/samsung3.png",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "HP Spectre x360",
+    "brandName": "HP",
+    "type": "laptop",
+    "description": "The HP Spectre x360 is a versatile 2-in-1 laptop. It offers a stunning display, long battery life, and the flexibility to switch between laptop and tablet modes, making it ideal for both work and entertainment.",
+    "price": "1099",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/Sx6SWYN/hp1.webp",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Intel Core i9-11900K",
+    "brandName": "Intel",
+    "type": "CPU",
+    "description": "The Intel Core i9-11900K is a high-performance processor for gaming and content creation. It features 8 cores, 16 threads, and supports high clock speeds for exceptional performance.",
+    "price": "549",
+    "rating": "4.8",
+    "image": "https://i.ibb.co/bRhgdK1/intel1.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Panasonic Arc5 Electric Shaver",
+    "brandName": "Panasonic",
+    "type": "electric shaver",
+    "description": "The Panasonic Arc5 Electric Shaver provides a close and comfortable shave with its five-blade system. It's suitable for wet and dry use, making it convenient for grooming.",
+    "price": "199",
+    "rating": "5",
+    "image": "https://i.ibb.co/Wx1Y4CK/panasonic4.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Google Pixel 6 Pro",
+    "brandName": "Google",
+    "type": "smartphone",
+    "description": "The Google Pixel 6 Pro is a flagship smartphone featuring a powerful camera system, a high-refresh-rate display, and the latest Android OS for a seamless mobile experience.",
+    "price": "899",
+    "rating": "4.8",
+    "image": "https://i.ibb.co/txrKfSK/google1.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "LG OLED C1 4K TV",
+    "brandName": "LG",
+    "type": "TV",
+    "description": "The LG OLED C1 is a premium 4K TV with OLED technology, offering stunning visuals, deep blacks, and vibrant colors. It's equipped with AI features and supports various streaming apps.",
+    "price": "1499",
+    "rating": "4.9",
+    "image": "https://i.ibb.co/S67Rs6X/lg1.jpg",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Samsung French Door Refrigerator",
+    "brandName": "Samsung",
+    "type": "refrigerator",
+    "description": "The Samsung French Door Refrigerator offers a spacious and organized interior, complete with adjustable shelves and a built-in water and ice dispenser.",
+    "price": "1499",
+    "rating": "4.7",
+    "image": "https://i.ibb.co/xmg1Kt7/samsung1.jpg",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "AirPods Pro",
+    "brandName": "Apple",
+    "type": "headphones",
+    "image": "https://i.ibb.co/FbbNS47/apple4.webp",
+    "description": "The AirPods Pro are Apple's top-of-the-line wireless earbuds. They offer active noise cancellation for immersive sound quality, Adaptive EQ for audio customization, and a Transparency mode for awareness of your surroundings. The customizable fit ensures a comfortable and secure in-ear experience.",
+    "price": "249",
+    "rating": "4.6",
+    "email":"ijesun10@gmail.com"
+  },
+  {
+    "productName": "Intel B560 Gaming Motherboard",
+    "brandName": "Intel",
+    "type": "motherboard",
+    "description": "The Intel B560 Gaming Motherboard is designed for gamers and enthusiasts. It offers support for the latest Intel processors and features that enhance gaming performance.",
+    "price": "169",
+    "rating": "4.6",
+    "image": "https://i.ibb.co/kQjFzNw/intel3.webp",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Samsung QLED 4K Smart TV",
+    "brandName": "Samsung",
+    "type": "smart TV",
+    "description": "The Samsung QLED 4K Smart TV delivers brilliant 4K visuals and features a smart platform with access to streaming services and voice control.",
+    "price": "999",
+    "rating": "4.6",
+    "image": "https://i.ibb.co/nfDLBG5/samsung2.jpg",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "HP Photosmart Digital Camera",
+    "brandName": "HP",
+    "type": "camera",
+    "description": "The HP Photosmart Digital Camera is a compact and user-friendly device for capturing memories. It features a high-resolution sensor, various shooting modes, and easy sharing options.",
+    "price": "149",
+    "rating": "4.2",
+    "image": "https://i.ibb.co/bBfQcFd/hp4.jpg",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Apple iPhone Camera Kit",
+    "brandName": "Apple",
+    "type": "camera",
+    "image": "https://i.ibb.co/p06FLPQ/apple3.webp",
+    "description": "Enhance your iPhone photography with the Apple iPhone Camera Kit. This kit includes a wide and ultra-wide lens attachment, allowing you to capture stunning images with your iPhone. Features like Night mode and enhanced zoom capabilities make it a must-have for photography enthusiasts.",
+    "price": "149",
+    "rating": "4.5",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Huawei Watch GT 2",
+    "brandName": "Huawei",
+    "type": "smartwatch",
+    "description": "The Huawei Watch GT 2 is a stylish and feature-rich smartwatch with a long-lasting battery, fitness tracking capabilities, and a range of health sensors.",
+    "price": "249",
+    "rating": "4.4",
+    "image": "https://i.ibb.co/V2QMFqK/huawei4.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Panasonic Lumix Digital Camera",
+    "brandName": "Panasonic",
+    "type": "digital camera",
+    "description": "The Panasonic Lumix Digital Camera is a compact and feature-rich camera, offering high-resolution images, 4K video recording, and a range of shooting modes.",
+    "price": "449",
+    "rating": "4.6",
+    "image": "https://i.ibb.co/k2r22tq/panasonic2.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "LG Front Load Washer",
+    "brandName": "LG",
+    "type": "washing machine",
+    "description": "The LG Front Load Washer is a high-capacity and efficient appliance for laundry. It offers various wash cycles, smart diagnostics, and a user-friendly interface.",
+    "price": "899",
+    "rating": "4.6",
+    "image": "https://i.ibb.co/XJ1SfH1/lg3.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Google Pixelbook",
+    "brandName": "Google",
+    "type": "chromebook",
+    "description": "The Google Pixelbook is a premium Chromebook offering a lightweight and ultra-thin design. It provides fast performance, a high-resolution touchscreen, and long-lasting battery life.",
+    "price": "999",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/h9CqLSH/google4.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "MacBook Pro",
+    "brandName": "Apple",
+    "price": "1299",
+    "image": "https://i.ibb.co/6R0Xppb/apple1.jpg",
+    "type": "laptop",
+    "rating": "5",
+    "description": "The 13-inch MacBook Pro is a powerful and sleek laptop. It features the M1 chip for lightning-fast performance, 8 GB of RAM, and a speedy 256 GB SSD for storage. With macOS Big Sur, you'll enjoy a seamless and intuitive user experience.",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Huawei MediaPad M5",
+    "brandName": "Huawei",
+    "type": "tablet",
+    "description": "The Huawei MediaPad M5 is a high-quality Android tablet with a sharp display, excellent sound, and a sleek metal build for entertainment and productivity.",
+    "price": "399",
+    "rating": "4.5",
+    "image": "https://i.ibb.co/D8Qv4by/huawei3.jpg",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Google Pixelbook",
+    "brandName": "Google",
+    "price": "599",
+    "image": "https://i.ibb.co/h9CqLSH/google4.jpg",
+    "type": "chromebook",
+    "rating": "4",
+    "description": "The Google Pixelbook is a premium Chromebook offering a lightweight and ultra-thin design. It provides fast performance, a high-resolution touchscreen, and long-lasting battery life.",
+    "createdAt": "2023-10-20T10:23:55.941Z",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Levi Huffman",
+    "brandName": "HP",
+    "price": "2763",
+    "image": "Voluptas itaque sint",
+    "type": "Excepteur aspernatur",
+    "rating": "2",
+    "description": "Omnis velit amet n",
+    "createdAt": "2023-10-29T19:39:46.821Z",
+    "email":"ijesun30@gmail.com"
+  },
+  {
+    "productName": "Illiana Avila",
+    "brandName": "Google",
+    "price": "426",
+    "image": "Tenetur iusto aliqua",
+    "type": "Sed dolor dolor do n",
+    "rating": "0",
+    "description": "Dolores qui nisi sit",
+    "createdAt": "2023-11-16T05:13:35.879Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "sobuj rana",
+    "brandName": "Apple",
+    "price": "3",
+    "image": "",
+    "type": "dfgdsfs",
+    "rating": "4",
+    "description": "dggdfgdfgdg",
+    "createdAt": "2023-11-17T15:35:40.426Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Mehedi Hasan",
+    "brandName": "Apple",
+    "price": "332",
+    "image": "tete",
+    "type": "ggea",
+    "rating": "3",
+    "description": "fghrhe",
+    "createdAt": "2024-04-23T16:43:57.283Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Mahdi Hasan Mahi",
+    "brandName": "Apple",
+    "price": "555",
+    "image": "hhhh",
+    "type": "hhh",
+    "rating": "5",
+    "description": "555",
+    "createdAt": "2024-04-23T16:46:28.390Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "fgfg",
+    "brandName": "Apple",
+    "price": "hjoi",
+    "image": "hh",
+    "type": "uyioh",
+    "rating": "5",
+    "description": "9jpop;",
+    "createdAt": "2024-04-23T16:47:07.209Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "jomor",
+    "brandName": "Microsoft",
+    "price": "100$",
+    "image": "sfg",
+    "type": "sfgsf",
+    "rating": "5",
+    "description": "wefawasege",
+    "createdAt": "2024-04-23T16:48:06.384Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Allen Snow",
+    "brandName": "Google",
+    "price": "499",
+    "image": "Itaque mollit in min",
+    "type": "Quas sunt excepturi ",
+    "rating": "5",
+    "description": "Obcaecati similique ",
+    "createdAt": "2024-04-23T19:18:56.386Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Isadora Mann",
+    "brandName": "Microsoft",
+    "price": "225",
+    "image": "Consequatur et sequi",
+    "type": "Quia quidem quos qua",
+    "rating": "5",
+    "description": "Dolore autem ut dolo",
+    "createdAt": "2024-04-23T19:19:47.542Z",
+    "email":"ijesun20@gmail.com"
+  },
+  {
+    "productName": "Mary Leonard",
+    "brandName": "Asus",
+    "price": "432",
+    "image": "https://lh3.googleusercontent.com/ogw/AF2bZyhSXXy7bPcytqY4lZSzRdFPgdoXSj9TxQlx_RTcfBAgGfw=s32-c-mo",
+    "type": "Commodo tenetur maxi",
+    "rating": "4",
+    "description": "Sunt tempore maxime",
+    "createdAt": "2024-04-24T06:40:51.974Z",
+    "email":"ijesun20@gmail.com"
+  }
+]
